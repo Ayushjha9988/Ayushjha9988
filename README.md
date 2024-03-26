@@ -1,5 +1,5 @@
 ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/DAXXTEAM/DAXXTEAM/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𓆩𝐀𝐘𝐔𝐒𝐇𓆪 ♡ 𝐗ᴅ🪽 𓆩🇮🇳𓆪](https://github-stats-alpha.vercel.app/api?username=Ayushjha9988 "EVOXD")](https://github-stats-alpha.vercel.app/api?username=Ayushjha9988 "AYUSH XD")
+   [![𓆩𝐀𝐘𝐔𝐒𝐇𓆪 ♡ 𝐗ᴅ🪽 𓆩🇮🇳𓆪](https://github-stats-alpha.vercel.app/api?username=Ayushjha9988 "AYUSHXD")](https://github-stats-alpha.vercel.app/api?username=Ayushjha9988 "AYUSH XD")
                                                           
   
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+WLC+TO+MY+PROFILE+🥀+🪽">
@@ -62,6 +62,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://t.me/DISTROYERx7"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushdbgkyp17@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/distroyerx7"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 ###
 
 <br clear="both">
