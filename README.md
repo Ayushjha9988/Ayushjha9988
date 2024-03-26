@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
+
 
 
 
