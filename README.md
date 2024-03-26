@@ -1,16 +1,45 @@
-### Hi there 👋
+# Redmi
 
-<!--
-**Ayushjha9988/Ayushjha9988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a skilled developer with expertise in AWS, Azure, Docker, Kubernetes, Python, and Golang. I have a passion for creating efficient and scalable solutions using cutting-edge technologies.
 
-Here are some ideas to get you started:
+## Skills
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- Python
+- Golang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Project 1: Project Name
+- Project 2: Project Name
+- Project 3: Project Name
+
+## Contact Me
+- Email: weeds
+- Telegram: https://t.me/DISTROYERx7
+- GitHub: GitHub Profile
+
+!Image
+
+## Styles
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+h1 {
+  color: #007bff;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
