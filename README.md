@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
-<img align="right" height="250" src="https://telegra.ph/file/b483084c1efc6cb2d9270.mp4"  />
 
 
 
