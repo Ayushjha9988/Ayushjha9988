@@ -1,4 +1,4 @@
-(https://github.com/DAXXTEAM)
+
    [![𓆩𝐀𝐘𝐔𝐒𝐇𓆪 ♡ 𝐗ᴅ🪽 𓆩🇮🇳𓆪](https://github-stats-alpha.vercel.app/api?username=Ayushjha9988 "AYUSHXD")](https://github-stats-alpha.vercel.app/api?username=Ayushjha9988 "AYUSH XD")
                                                           
   
