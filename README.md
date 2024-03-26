@@ -2,7 +2,7 @@
    [![𓆩𝐀𝐘𝐔𝐒𝐇𓆪 ♡ 𝐗ᴅ🪽 𓆩🇮🇳𓆪](https://github-stats-alpha.vercel.app/api?username=Ayushjha9988 "EVOXD")](https://github-stats-alpha.vercel.app/api?username=Ayushjha9988 "AYUSH XD")
                                                           
   
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐓𝐇𝐄+𝐀𝐘𝐔𝐒𝐇𝐗𝐃+𝐓𝐄𝐀𝐌+🌱">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+ᴡʟᴄ+ᴛᴏ+ᴍʏ+ᴘʀᴏғɪᴋᴇ+🌱">
 
 
 <!--
